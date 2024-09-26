@@ -4,9 +4,7 @@
       <div style="margin-top: 15px;">
         <div style="width: fit-content;float: left;">
           <div class="icon">
-            <png src="test/ygking.png"
-              alt="Custom Png" style="width: 100px;
-              height: auto;">
+            <img src="https://sukuna.ygking.lol/raw/ygking.png" alt="描述" style="width: 100px; height: 100px;">
           </div>
           <span class="title"> Net-Panel </span>
         </div>
