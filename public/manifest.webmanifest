@@ -1,0 +1,17 @@
+{
+    "name": "Net-Panel",
+    "short_name": "Net-Panel",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "lang": "zh-CN",
+    "scope": "/",
+    "description": "Net-Panel在线流量消耗器，测试网速，监测IP",
+    "icons": [
+        {
+            "src": "./icon.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+}
