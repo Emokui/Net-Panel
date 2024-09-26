@@ -4,7 +4,7 @@
       <div style="margin-top: 15px;">
         <div style="width: fit-content;float: left;">
           <div class="icon">
-            <img src="https://sukuna.ygking.lol/raw/Gojo.png" alt="描述" style="width: 100px; height: 100px;">
+            <img src="hhttps://sukuna.ygking.lol/raw/Sukuna.png" alt="描述" style="width: 50px; height: 50px;">
           </div>
           <span class="title"> Net-Panel </span>
         </div>
