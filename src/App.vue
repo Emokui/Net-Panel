@@ -4,7 +4,7 @@
       <div style="margin-top: 15px;">
         <div style="width: fit-content;float: left;">
           <div class="icon">
-            <img src="https://raw.githubusercontent.com/Emokui/Sukuna/refs/heads/main/icon/Mine/Sukurain.JPEG" alt="描述" style="width: 40px; height: 40px;">
+            <img src="https://suguru.pages.dev/raw/Musashi.jpeg" alt="描述" style="width: 40px; height: 40px;">
           </div>
           <span class="title"> Net-Panel </span>
         </div>
